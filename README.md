@@ -1,6 +1,6 @@
-# Command Line Interface (CLI) Applikationen
+# Command Line Interface (CLI)
 
-Dieses Beispielprojekt zeigt die Implementierung einer CLI Applikation mit Spring Boot.
+This example shows the implementation of a CLI application using Spring Boot.
 
 ### Siehe auch
 
